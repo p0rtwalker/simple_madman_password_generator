@@ -1,2 +1,2 @@
 # simple_madman_password_generator
-simple password generator python
+simple password generator made in python
