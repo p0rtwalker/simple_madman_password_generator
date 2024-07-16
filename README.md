@@ -1,2 +1,1 @@
-# simple_madman_password_generator
-simple password generator in python. 
+This is a very simple python password generator, there are a lot on the internet, I just tried to make one too. 
